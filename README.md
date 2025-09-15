@@ -17,5 +17,5 @@ A simple health advice chatbot built using Hugging Face's **Transformers** libra
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/health-advice-chatbot.git
+   git clone https://github.com/govin2025/AI_Doctor
    cd health-advice-chatbot
